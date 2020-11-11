@@ -18,7 +18,7 @@
     "nodemon": "^2.0.6"
   },
   "scripts": {
-    "start": "nodemon --exec babel-node index.js --delay 1"
+    "start": "nodemon --exec babel-node init.js --delay 1"
   },
   "author": "JHL",
   "license": "ISC"
